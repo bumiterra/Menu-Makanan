@@ -5,7 +5,7 @@
 ### Terdapat di dalam file index.html
 ## 2. Detail Menu
 ### Berisi informasi yang lebih detail tentang menu makanan tersebut, dapat diakses dari home page dengan meng-klik menu tersebut.
-###Terdapat di dalam file menu{n}.html
+### Terdapat di dalam file menu{n}.html
 
 # Identitas Pembuat
 ### Nama: Bastian Hendramukti Suryapratama
